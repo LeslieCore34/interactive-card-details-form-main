@@ -1,0 +1,34 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.blue {
+    width: 100%;
+}
+
+
+.back {
+    width: 92%;
+}
+
+.front {
+    width: 80%;
+}
+
+.container-images {
+    position: relative;
+}
+
+.back-card {
+    position: absolute;
+    top: 12%;
+    left: 17%;
+}
+
+.front-card {
+    position: absolute;
+    top: 50%;
+    left: 5%;
+}
